@@ -12,6 +12,6 @@ except for any _narrative flair_ they add to the dry instructions. The recipes
 here are flair-free, so you are free to copy them. Though attribution is always
 nice (either to us, or to the source we cite).
 
-## Recipe List
+## Recipes
 
 - [Daal](daal.md)
