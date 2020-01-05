@@ -15,3 +15,4 @@ nice (either to us, or to the source we cite).
 ## Recipes
 
 - [Daal](daal.md)
+- [Borscht](borscht.md)
