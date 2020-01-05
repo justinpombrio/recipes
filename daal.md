@@ -1,6 +1,8 @@
 # Daal
 
-Serves two. Adapted from [indianhealthyrecipes.com](https://www.indianhealthyrecipes.com/dal-makhani-recipe/).
+Serves two. Total time: >6 hours.
+
+Adapted from [indianhealthyrecipes.com](https://www.indianhealthyrecipes.com/dal-makhani-recipe/).
 
 ## Ingredients
 
@@ -42,4 +44,4 @@ Prepare the spices:
 
 Add the spices to the slow-cooking lentils, together with **4 tbsp butter**.
 Slow cook for at least 6 hours. Add water as needed.
-Just before eating, add **1/2 cup cream**.
+When serving, add cream to taste.
