@@ -1,6 +1,6 @@
 # Borscht
 
-Serves two. Total time: >4 hours.
+Serves four. Total time: >4 hours.
 
 Adapted from [The Moosewood Cookbook](http://www.molliekatzen.com/books_moosewood_cookbook.php).
 
