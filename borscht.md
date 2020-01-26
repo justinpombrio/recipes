@@ -13,7 +13,7 @@ and take a sip. Mmmm. This is _borscht_.
 
 ## Ingredients
 
-- 1 cabbage
+- 1/2 cabbage
 - 1 enormous carrot
 - 1 potato
 - 1 large beet
@@ -38,6 +38,6 @@ and take a sip. Mmmm. This is _borscht_.
    and add them to the slow cooker.
 3. Add the spices: **1/2 tsp anise**, **1 1/2 tsp dill**, **2 tbsp cider vinegar**
    **1 1/2 tsp salt**, **1/2 tsp pepper**, **2 tbsp brown sugar**.
-4. Slow cook for 3 or more hours.
-5. Chop the **1 cabbage** and **2 tomatoes**, add it to the pot, and continue
-   cooking for an hour.
+4. Slow cook for 2 hours.
+5. Chop the **1/2 cabbage** and **2 tomatoes**, add it to the pot, and continue
+   cooking for 2 or more hours.
