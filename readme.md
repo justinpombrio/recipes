@@ -17,3 +17,4 @@ nice (either to us, or to the source we cite).
 - [Daal](daal.md)
 - [Borscht](borscht.md)
 - [Smokey Pottage](pottage.md)
+  [Vegetable Amarillo](amarillo.md)
