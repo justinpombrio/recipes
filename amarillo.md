@@ -26,7 +26,7 @@ Adopted from [The Gourmet Vegetarian Slow Cooker](https://www.amazon.com/Gourmet
 
 ## Instructions
 
-### Sauce
+#### Sauce
 
 1. De-stem, de-seed, and chop the **fresh chiles**.
 2. Lightly toast them in a frying pan, then add them to the slow cooker.
@@ -37,7 +37,7 @@ Adopted from [The Gourmet Vegetarian Slow Cooker](https://www.amazon.com/Gourmet
 5. Cover with water and boil for 45 minutes.
 6. Blend the mixture.
 
-### Vegetables
+#### Vegetables
 
 1. Chop the **2 chayotes** and **1/2 of a butternut squash**, and add them to
    the slow cooker with the sauce.
