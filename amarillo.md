@@ -39,8 +39,8 @@ Adopted from [The Gourmet Vegetarian Slow Cooker](https://www.amazon.com/Gourmet
 
 #### Vegetables
 
-1. Chop the **2 chayotes** and **1/2 of a butternut squash**, and add them to
-   the slow cooker with the sauce.
+1. Peel and chop the **2 chayotes** and **1/2 of a butternut squash**,
+   and add them to the slow cooker with the sauce.
 2. Slow cook for 3-4 hours, until the squash is tender but still holds its
    shape.
 3. Thicky chop the **3 portobello mushrooms**, **6 oz. green beans**,
