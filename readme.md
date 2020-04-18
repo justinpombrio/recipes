@@ -20,3 +20,7 @@ nice (either to us, or to the source we cite).
 - [Borscht](borscht.md)
 - [Smokey Pottage](pottage.md)
 - [Vegetable Amarillo](amarillo.md)
+
+## Sauces
+
+- [Peanut Sauce](peanut-sauce.md)
