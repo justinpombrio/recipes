@@ -6,4 +6,4 @@
   release.
 - **Black beans:** 3 cups water per cup beans. 25 minutes + 5 mins natural
   release.
-
+- **Chickpeas:** 3 cups water per cup chickpeas. 60 minutes + 10 mins natural. DO NOT release immediately; chickpea foam could get in the valve.
