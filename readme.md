@@ -21,6 +21,7 @@ nice (either to us, or to the source we cite).
 - [Smokey Pottage](pottage.md)
 - [Vegetable Amarillo](amarillo.md)
 - [Acorn Squash](acorn-squash.md)
+- [Adele's Chili](chili.md)
 
 ## Sauces
 
