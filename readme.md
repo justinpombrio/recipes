@@ -23,6 +23,7 @@ nice (either to us, or to the source we cite).
 - [Acorn Squash](acorn-squash.md)
 - [Adele's Chili](chili.md)
 - [Pancakes](pancakes.md)
+- [Tacos](tacos.md)
 
 ## Sauces
 
