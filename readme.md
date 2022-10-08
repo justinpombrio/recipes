@@ -24,6 +24,7 @@ nice (either to us, or to the source we cite).
 - [Adele's Chili](chili.md)
 - [Pancakes](pancakes.md)
 - [Tacos](tacos.md)
+- [Tangy Baked Beans](baked-beans.md)
 
 ## Sauces
 
