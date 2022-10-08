@@ -4,9 +4,9 @@
 
 - 1 1/2 cup soy curls
 - 1 1/2 cup water
-- 2 tbsp miso
-- 2 tbsp maple syrup
-- 1 tbsp soy sauce
+- 2 Tbsp miso
+- 2 Tbsp maple syrup
+- 1 Tbsp soy sauce
 - dash of red pepper flakes
 
 Soak soy curls in marinade for 10 minutes. Transfer to pan and cok until liquid

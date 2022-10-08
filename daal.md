@@ -32,9 +32,9 @@ and **a bay leaf**. Start with **2 cups water**; add more as needed.
 
 After a couple hours of cooking, prepare the onion:
 
-1. Heat a pan with **2 tbsp oil**.
+1. Heat a pan with **2 Tbsp oil**.
 2. Add **1 tsp cumin**, **1/4 tsp cardemon**, **1/8 tsp cloves**,
-   **1/2 tsp cinammon**, and **1 tbsp ginger-garlic paste**.
+   **1/2 tsp cinammon**, and **1 Tbsp ginger-garlic paste**.
    Saute about 3 minutes.
 3. Dice **2 onions**, then blend most but not all of them.
 4. Add onion pieces to pan and fry until they start to brown, about 10 minutes.
@@ -44,7 +44,7 @@ After a couple hours of cooking, prepare the onion:
 Then add the tomatoes and remaining spices:
 
 1. Add **3 diced tomatoes**, **1/2 tsp tumeric**, **2 tsp coriander**, **1
-   chile**, **1/4 tsp salt** _(alternative: 1 tsp miso paste)_, and **4 tbsp
+   chile**, **1/4 tsp salt** _(alternative: 1 tsp miso paste)_, and **4 Tbsp
    butter** to the slow cooker.
 
 Slow cook for a total of at least 6 hours. Add water as needed. When serving,

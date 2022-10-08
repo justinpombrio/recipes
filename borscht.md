@@ -32,12 +32,12 @@ and take a sip. Mmmm. This is _borscht_.
 
 ## Instructions
 
-1. Chop and saute the **1 onion** in **2 tbsp butter** until golden-brown.
+1. Chop and saute the **1 onion** in **2 Tbsp butter** until golden-brown.
    Add it to the slow cooker.
 2. Chop the root vegetables (**1 enormous carrot**, **1 potato**, **1 large beet**),
    and add them to the slow cooker.
-3. Add the spices: **1/2 tsp anise**, **1 1/2 tsp dill**, **2 tbsp cider vinegar**
-   **1 1/2 tsp salt**, **1/2 tsp pepper**, **2 tbsp brown sugar**.
+3. Add the spices: **1/2 tsp anise**, **1 1/2 tsp dill**, **2 Tbsp cider vinegar**
+   **1 1/2 tsp salt**, **1/2 tsp pepper**, **2 Tbsp brown sugar**.
 4. Slow cook for 1 hour.
 5. Chop the **1/2 cabbage** and **2 tomatoes**, add it to the pot, and continue
    cooking for 3 or more hours.

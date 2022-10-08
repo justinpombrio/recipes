@@ -19,14 +19,14 @@ Makes half a dozen pancakes.
 Mix dry ingredients:
 
 - 1 1/4 cups (156g) flour
-- 3 tbsp sugar
-- 1 tbsp baking powder
+- 3 Tbsp sugar
+- 1 Tbsp baking powder
 - 1/4 tsp salt
 
 Mix in wet ingredients:
 
-- 1 tbsp group flaxseed meal mixed in 3 tbsp hot water, let sit for 1 minute
-- 1 tbsp coconut oil, melted in microwave
+- 1 Tbsp group flaxseed meal mixed in 3 Tbsp hot water, let sit for 1 minute
+- 1 Tbsp coconut oil, melted in microwave
 - 3/4 cup (180ml) soy milk
 
 Cook the pancakes. Each pancake should be roughly 1/4 cup. Get the pan rather

@@ -33,7 +33,7 @@ Adopted from [The Gourmet Vegetarian Slow Cooker](https://www.amazon.com/Gourmet
 3. Chop the **3 tomatillos**, **1/2 onion**, and **1/4 cup dates**
    and add them to the slow cooker.
 4. Add **1/2 tsp allspice**, **1/2 tsp cloves**, **1 tsp cumin**,
-   **9 cloves garlic**, **1 tbsp oregano**, and **2 tbsp oil**.
+   **9 cloves garlic**, **1 Tbsp oregano**, and **2 Tbsp oil**.
 5. Cover with water and boil for 45 minutes.
 6. Blend the mixture.
 
