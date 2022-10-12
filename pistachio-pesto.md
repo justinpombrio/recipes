@@ -3,7 +3,7 @@
 ## Soy Curls
 
 - 1 1/2 cup soy curls
-- 1 1/2 cup water
+- 1 cup water
 - 2 Tbsp miso
 - 2 Tbsp maple syrup
 - 1 Tbsp soy sauce
