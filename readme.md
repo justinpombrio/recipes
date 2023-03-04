@@ -29,4 +29,4 @@ nice (either to us, or to the source we cite).
 ## Sauces
 
 - [Peanut Sauce](peanut-sauce.md)
-- [Pistachio Pest with Soy Curls](pistachio-pest.md)
+- [Pistachio Pesto with Soy Curls](pistachio-pesto.md)
