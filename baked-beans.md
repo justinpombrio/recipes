@@ -2,7 +2,7 @@
 
 Adpated from the [Moosewood Cookbook](https://www.amazon.com/Moosewood-Cookbook-40th-Anniversary/dp/1607747391).
 
-Serves two. Bit of frying then bakes for an hour.
+Serves four. Bit of frying then bakes for an hour.
 
 ## Ingredients
 
