@@ -30,3 +30,7 @@ nice (either to us, or to the source we cite).
 
 - [Peanut Sauce](peanut-sauce.md)
 - [Pistachio Pesto with Soy Curls](pistachio-pesto.md)
+
+## Desserts
+
+- [Gooey Cookies](gooey-cookies.md)
