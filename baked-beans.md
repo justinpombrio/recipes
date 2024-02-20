@@ -24,6 +24,8 @@ Serves four. Bit of frying then bakes for an hour.
 - dry white wine (optional)
 - red pepper flakes
 
+## Instructions
+
 Pressure cook the **3 cups of pinto beans** until tender. Drain them.
 
 Fry the onions on medium heat for 8-10 minutes, together with:
